@@ -5,6 +5,11 @@ library(devtools)
 install_github("gavin-mullin/DragQueenPalettes")     
 library(DragQueenPalettes)
 
+## Usage examples
+Within ggplot:    
+scale_fill_DragQueen(palette='Shea Coulee')     
+scale_color_DragQueen(palette='Shea Coulee')
+
 ## All palettes with names:
 (in hindsight, I should have alphabetized this list, my bad)    
 ![All Colors](https://user-images.githubusercontent.com/127583678/224606552-09555a16-8eb7-4db3-a9f0-b2c31f448891.png)   
