@@ -1,0 +1,10 @@
+Package: DragQueenPalettes
+Type: Package
+Title: Drag Queen Color Palettes
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <gmullin@udel.edu>
+Description: This package contains 77 different color palettes inspired by the queens of RuPaul's drag race. Now you can color your graphs in drag! As a long time drag fan and drag queen myself, I thought it would be a fun way for me to learn more about R while also implementing something I can actually use in my own work. Example code under ggplot: scale_fill_DragQueen(palette='Shea Coulee')
+License: Uhh myself?
+Encoding: UTF-8
+LazyData: true
